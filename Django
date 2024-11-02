@@ -1,0 +1,2 @@
+django-admin startproject youtube_site
+cd youtube_site
